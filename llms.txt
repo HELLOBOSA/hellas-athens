@@ -27,11 +27,13 @@ Brand: Hellas Reform (one-word wordmark: Hellasreform). This site is Hellas Refo
 - [Blog](https://hellasreform.gr/blog/): Renovation guides and articles for Athens
 - [Cities / Πόλεις](https://hellasreform.gr/cities/): Service areas
 - [Partners / Συνεργάτες](https://hellasreform.gr/partners/): Collaborating professionals
+- [FAQ / Συχνές ερωτήσεις](https://hellasreform.gr/sixnes-erotiseis/): Answers on prices, subsidies, VAT, timelines, permits and guarantees
+- [Privacy / Απόρρητο](https://hellasreform.gr/legal/): Privacy policy and terms
 
 ## Blog Articles
 
 - [Άδεια Ανακαίνισης Αττική: Πλήρης Οδηγός](https://hellasreform.gr/blog/adeia-anakainisis-attiki/): When you need a small-scale works permit or building permit for renovation in Attica, and what documents are required.
-- [Ανακαίνιση Airbnb Αθήνα 2026: Κανόνες & Κόστος](https://hellasreform.gr/blog/anakainisi-airbnb-athina/): Airbnb property renovation in Athens: 2026 regulations, fire safety, energy certificates, upgrade costs and practical tips.
+- [Ανακαίνιση Airbnb Αθήνα 2026: Κόστος](https://hellasreform.gr/blog/anakainisi-airbnb-athina/): Airbnb property renovation in Athens: 2026 regulations, fire safety, energy certificates, upgrade costs and practical tips.
 - [Ανακαίνιση Διαμερίσματος Αθήνα 2026](https://hellasreform.gr/blog/anakainisi-diamerismatos-athina/): Apartment renovation in Athens: building regulations, permitted work hours, permits, insurance and what to know before starting.
 - [Ανακαίνιση Επαγγελματικού Χώρου Αθήνα 2026](https://hellasreform.gr/blog/anakainisi-epaggelmatikou-xorou-athina/): Commercial space renovation in Athens, offices, shops, restaurants and clinics: cost per sqm, permits and accessibility, timelines and how to renovate with minimal downtime.
 - [Ανακαίνιση Κουζίνας Αθήνα: Τιμές 2026](https://hellasreform.gr/blog/anakainisi-kouzinas-athina/): Kitchen renovation prices in Athens 2026: material options, ergonomic design, appliances and custom-built solutions.
@@ -41,5 +43,5 @@ Brand: Hellas Reform (one-word wordmark: Hellasreform). This site is Hellas Refo
 - [Ειδικές Ξυλουργικές Κατασκευές Αθήνα](https://hellasreform.gr/blog/eidiki-kataskevi-epipla/): Custom carpentry in Athens: built-in wardrobes, bookshelves, wall panelling and storage designed for your space.
 - [Εξοικονομώ & Ενεργειακή Αναβάθμιση Αθήνα](https://hellasreform.gr/blog/exoikonomo-energeiaki-anakainisi/): Exoikonomw energy upgrade guide for Athens homes: windows, insulation, heating systems and preparing your application.
 - [Έξυπνο Σπίτι & Ανακαίνιση Αθήνα: Οδηγός 2026](https://hellasreform.gr/blog/exypno-spiti-anakainisi/): Smart home guide for Athens renovations: lighting, heating, shading, security and networking integration.
-- [Κόστος Ανακαίνισης Αθήνα 2026: Τιμές ανά τ.μ.](https://hellasreform.gr/blog/kostos-anakainisis-athina-2026/): Renovation costs in Athens 2026: price per sqm, trade costs, materials and hidden expenses. Complete pricing guide.
+- [Κόστος Ανακαίνισης Αθήνα 2026](https://hellasreform.gr/blog/kostos-anakainisis-athina-2026/): Renovation costs in Athens 2026: price per sqm, trade costs, materials and hidden expenses. Complete pricing guide.
 - [Ολική Ανακαίνιση Αθήνα: Κόστος & Διαδικασία](https://hellasreform.gr/blog/oliki-anakainisi-athina/): Full renovation guide for Athens: cost per sqm, work sequence, timeline and project management.
